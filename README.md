@@ -177,5 +177,5 @@ Desenvolvido por **Matheus Soares**
 
 | Repositório | Descrição |
 |-------------|-----------|
-| [dslist-api](https://github.com/seu-usuario/dslist-api) | Backend Spring Boot |
-| [dslist-frontend](https://github.com/seu-usuario/dslist-frontend) | Frontend React (este repositório) |
+| [dslist-api](https://github.com/matheusdeveloperphp/dslit-api) | Backend Spring Boot |
+| [dslist-frontend](https://github.com/matheusdeveloperphp/dslist-frontend) | Frontend React (este repositório) |
